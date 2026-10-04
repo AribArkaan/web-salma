@@ -37,7 +37,7 @@ export default function Hero() {
           <div className="relative">
             <div className="absolute -inset-4 bg-slateblue/10 rounded-[2rem] rotate-3" />
             <img
-              src="/public/profil.jpg"
+              src="/profil.jpg"
               alt="Salma Su'daa Saajidah"
               className="relative w-72 h-80 md:w-80 md:h-96 object-cover rounded-[2rem] shadow-xl"
             />
